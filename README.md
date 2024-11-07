@@ -69,6 +69,41 @@ else:
 
 ![image](https://github.com/user-attachments/assets/062033f7-10dd-4ab0-9110-329095834622) ![image](https://github.com/user-attachments/assets/888f079a-df52-4cfe-b531-588b4f5647a7)
 
-# Ejemplo #3
+# Ejemplo 3
+
+print()
+
+print("Edgar Gael Garcia Camacho 1182 : Practicando python")
+
+print()
+
+#Se agrega el nombre y el apellido en una variable.
+
+Nom =str(input("Ingresa un nombre :"))
+
+Ape =str (input("Ingresa un apellido :"))
+
+#Se berifica si el nombre y el apellido son los correctos.
+
+if Nom == ("Gael") :
+
+  print("Nombre y apellido correctos")
+
+elif Ape == ("Garcia"):
+
+  print(Ape)
+
+else:
+
+  print("Usuario desconocido")
+
+print(Nom , Ape)
+
+![image](https://github.com/user-attachments/assets/e08fa826-3e52-45e2-a416-fd637bc805e3)
+
+![image](https://github.com/user-attachments/assets/31f123f0-00ba-4be5-8413-e16a2a4bd7cd)
+
+
+# Programa 4
 
 
