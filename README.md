@@ -9,7 +9,7 @@ print("Edgra Gael Garcia Camacho 1182 : Practicando python")
 
 print()
 
-# Se le agraga valor a la variable.
+#Se le agrega valor a la variable.
 
 edad = int(input("Ingresa tu edad :"))
 
