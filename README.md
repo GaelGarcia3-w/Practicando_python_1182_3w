@@ -192,11 +192,11 @@ print("Edgar Gael Garcia Camacho 1182: Practicando Python")
 
 print()
 
-# Se suman los números pares desde el 2 hasta el 100 
+#Se suman los números pares desde el 2 hasta el 100 
 
 suma = sum(range(2, 101, 2))
 
-# Imprimir el resultado
+#Imprimir el resultado
 
 print()
 
@@ -216,11 +216,11 @@ print("Edgar Gael Garcia Camacho 1182 : Practicando Python")
 
 print()
 
-# Definir el número para la tabla de multiplicar
+#Definir el número para la tabla de multiplicar
 
 numero = 7  
 
-# Usar un bucle para imprimir la tabla de multiplicar
+#Usar un bucle para imprimir la tabla de multiplicar
 
 for i in range(1, 11):
 
@@ -260,11 +260,11 @@ print()
 
 lista = ["Burrito", "Galletas", "Donas", "Coca Cola", "Pollos"]
 
-# Inicializar un índice para recorrer la lista
+#Inicializar un índice para recorrer la lista
 
 indice = 0
 
-# Usar un bucle while para recorrer e imprimir los elementos de la lista
+#Usar un bucle while para recorrer e imprimir los elementos de la lista
 
 while indice < len(lista):
 
