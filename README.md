@@ -69,7 +69,7 @@ else:
 
 ![image](https://github.com/user-attachments/assets/062033f7-10dd-4ab0-9110-329095834622) ![image](https://github.com/user-attachments/assets/888f079a-df52-4cfe-b531-588b4f5647a7)
 
-# Ejemplo 3
+# Programa 3
 
 print()
 
